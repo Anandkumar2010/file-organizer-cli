@@ -28,8 +28,6 @@ Download directories and desktop folders frequently accumulate loose files with 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/file-organizer-cli.git
+   git clone [https://github.com/Anandkumar2010/file-organizer-cli.git](https://github.com/Anandkumar2010/file-organizer-cli.git)
    cd file-organizer-cli
-   Run the script:
-
 python organizer.py
